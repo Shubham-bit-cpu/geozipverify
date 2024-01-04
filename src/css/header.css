@@ -1,0 +1,18 @@
+.header {
+    background-color: #7878781a;
+}
+
+.wrapper {
+    padding: 14px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.headerheading {
+    font-size: 20px;
+    font-weight: 600;
+    color: whitesmoke;
+}
+.hol{
+    height: 300vh;
+}

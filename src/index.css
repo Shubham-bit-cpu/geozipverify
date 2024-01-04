@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(../src/img/dealers_banner-2.png.webp);
+ 
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 750px;
 }
 
 code {
